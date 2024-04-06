@@ -7,4 +7,17 @@ body {
     color-scheme: dark;
 }
 
+body {
+    border: solid blue;
+    border-radius: 15%;
+}
 
+button {
+    border:solid red;
+    border-radius: 15%;
+}
+
+button:hover {
+    background: red;
+
+}
